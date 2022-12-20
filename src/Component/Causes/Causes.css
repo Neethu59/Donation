@@ -1,0 +1,19 @@
+#category
+{
+    margin-left: 1%;
+    color: greenyellow;
+}
+#replay
+{
+    width: 30%;
+    margin-left: 3%;
+    padding: 2%;
+}
+.posts
+{
+    display: flex;
+}
+#raise
+{
+font-weight: 500;
+}

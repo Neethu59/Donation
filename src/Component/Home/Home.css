@@ -1,0 +1,80 @@
+.carousel-indicators
+{
+   width: 5%;
+   background-color: black;
+   margin-left: 50%;
+
+}
+#charity1
+{
+    /* background-image: url('/assets/charity1.jpg'); */
+    height:30%;
+    width:100%;
+    background-size: cover;
+
+}
+#charity2
+{
+  /* background-image: url('/assets/charity2.jpg');  */
+  height:60%;
+  width:100%; 
+}
+.carousel-caption
+{
+  margin-bottom: 20%;
+  margin-right: 20%;
+}
+.save
+{
+  font-weight: 800;
+  font-size: 50px;
+  margin-bottom: 5%;
+  margin-right: 25%;
+}
+.save1
+{
+  margin-right: 20%;
+}
+.view
+{
+  margin-right: 65%;
+  margin-top: 5%;
+  background-color: rgb(97, 242, 97);
+  color: white;
+  border: none;
+  font-size: x-large;
+  border-radius: 35%;
+}
+.welcome
+{
+  background-color: aliceblue;
+  padding-top: 1%;
+  margin-bottom: 1%;
+  
+
+}
+#sp
+{
+  display: grid;
+}
+.para
+{
+  font-size: x-large;
+  font-weight: 200;
+}
+.para1
+{
+  font-weight: 100;
+}
+#card
+{
+  margin-left: 10% ;
+  height: 20%;
+  width: 80%;
+  margin-top: 10%;
+}
+.wel
+{
+  margin-left: 13%;
+  
+}

@@ -1,0 +1,15 @@
+#log
+{
+    background-image: url("/public/assets/charity1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 10%;
+    padding-bottom: 20%;
+    /* opacity:0.4; */
+    /* background: rgb(251, 246, 246);; */
+
+}
+#sign
+{
+    display: flex;
+}

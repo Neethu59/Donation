@@ -1,0 +1,69 @@
+.para2
+{
+   margin-top: 2%; 
+   font-size: x-large;
+   line-height: 50%;
+   font-weight: 100;
+   letter-spacing: 10%;
+}
+.bg_image
+{
+background-image: url("/public/assets/charity1.jpg");
+background-size: cover;   
+}
+.cause
+{
+    background-color: white;
+    padding-bottom: 5%;
+    padding-top: 2%;
+}
+.data
+{
+
+margin-left: 20%;
+color: white;
+  
+}
+.container
+{
+    display: flex;
+    margin-top: 5%;
+    padding-bottom: 5%;
+    
+}
+.card-desk
+{
+    display: flex;
+    margin-top: 1%;
+    padding-bottom: 5%;
+}
+#face1
+{
+    height: 7%;
+    width: 5%;
+    margin-left: 10%;
+    border-radius: 50%;
+    margin-top: 3%;
+}
+#face2
+{
+    height: 5%;
+    width: 5%;
+    margin-left: 36%;
+    border-radius: 50%;
+    margin-top: 3%;
+}
+.para3
+{
+    margin-left: 5%;
+    margin-top: 2%;
+}
+#spa
+{
+    color: white;
+    font-size: x-large;
+}
+#web
+{
+    margin-left: 10%;
+}

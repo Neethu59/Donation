@@ -1,0 +1,9 @@
+.blog
+{
+    display: flex;
+    /* margin-right: 10%; */
+}
+#blogimg
+{
+   margin-top: 5%;
+}

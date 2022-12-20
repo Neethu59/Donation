@@ -1,0 +1,27 @@
+.charty
+{
+    font-weight: 1000;
+    font: 2em sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+}
+.bg
+{
+    background-color: rgb(251, 246, 246);
+
+}
+.galery
+{
+    display: flex;
+    margin-right:20% ;
+}
+#gal{
+height: 40%;
+width:40%;
+border-radius: 5%;
+padding-left: 1em;
+margin-top: 5%;
+}
+#sm4
+{
+    margin-right: 10%;
+}
